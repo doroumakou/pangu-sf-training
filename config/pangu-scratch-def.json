@@ -1,0 +1,48 @@
+{
+    "orgName": "pangu_scratch",
+    "edition": "Developer",
+    "username": "pangu_scratch@sfdxdev.com",
+    "language": "ja",
+    "hasSampleData": true,
+    "description": "pangu scratch dev org",
+    "features": [
+        "ServiceCloud"
+        ,"API"
+        ,"AuthorApex"
+        ,"B2BCommerce"
+        ,"Chatbot"
+        ,"Communities"
+        ,"CPQ"
+        ,"DebugApex"
+        ,"DefaultWorkflowUser"
+        ,"DeferSharingCalc"
+        ,"EnableSetPasswordInApi"
+        ,"ForceComPlatform"
+        ,"Knowledge"
+        ,"LightningServiceConsole"
+        ,"LiveAgent"
+        ,"Macros"
+        ,"MarketingUser"
+        ,"MultiCurrency"
+        ,"PersonAccounts"
+        ,"PlatformCache"
+        ,"ProcessBuilder"
+        ,"RecordTypes"
+        ,"ServiceUser"
+        ,"Workflow"
+        ,"AddCustomObjects:30"
+        ,"AddCustomRelationships:10"
+        ,"AddCustomTabs:30"
+    ],
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "caseSettings": {
+            "closeCaseThroughStatusChange": true
+        },
+        "mobileSettings": {
+          "enableS1EncryptedStoragePref2": false
+        }
+    }
+}
